@@ -1,6 +1,5 @@
 <h1 align="center">🌲 Linktree</h1>
 <h3 align="center">Simple site pages like Linktree</h3>
----
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
