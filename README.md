@@ -45,9 +45,9 @@ Open the index.html file then look for the code.
         ];
 ```
 ## 🖥️ Technologies Used
-+ HTML
-+ CSS
-+ JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## 🤔 How to contribute
 
