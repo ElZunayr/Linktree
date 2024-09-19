@@ -31,6 +31,22 @@ git clone https://github.com/ElZunayr/Linktree
 - Change the profile image and texts in the `index.html` file.
 - Change the colors and fonts in the `style.css` file.
 
+## 📜 Add Links
+Open the index.html file then look for the code.
+```javascript
+// list links
+        const links = [
+            {
+                url: '#', // * URL destination
+                text: '#', // * written for the link
+            },
+        ];
+```
+## 🖥️ Technologies Used
++ HTML
++ CSS
++ JavaScript
+
 ## 🤔 How to contribute
 
 - Fork this repository;
